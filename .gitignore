@@ -1,0 +1,7 @@
+# Ignore all Jupyter Notebook Checkpoints
+*.ipynb_checkpoints
+.vscode
+
+# Virtual Environments
+envs
+.venv
