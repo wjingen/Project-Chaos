@@ -56,9 +56,9 @@ nbformat==5.4.0
 nest-asyncio==1.5.5
 notebook==6.4.12
 notebook-shim==0.1.0
-numpy==1.22.4
+numpy==1.23.1
 packaging==21.3
-pandas==1.1.5
+pandas==1.4.0
 pandocfilters==1.5.0
 panel==0.13.1
 param==1.12.2
