@@ -3,7 +3,7 @@
 ### Showcase
 
 **Project Video**
-https://vimeo.com/801655262/0c813bed95
+Video hosted on Vimeo: https://vimeo.com/801655262/0c813bed95
 
 **Threat Page**
 ![image](https://user-images.githubusercontent.com/74229021/220969448-29263d17-8f87-489d-847a-a1cd120e4924.png)
