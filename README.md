@@ -13,10 +13,6 @@ Video hosted on Vimeo: https://vimeo.com/801655262/0c813bed95
 **Response Page**
 ![image](https://user-images.githubusercontent.com/74229021/220969542-a3d42fb5-4739-4180-b82c-ac3613ce97eb.png)
 
-
-
-### Project Video
-
 ### A Data-Driven Dashboard to the Russian-Ukraine War
 
 Project Chaos delves into the reactions, impacts and repercussions of the ongoing Russian-Ukraine war.
